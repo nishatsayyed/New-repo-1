@@ -7,7 +7,6 @@ rootDirectory = postman/collections
 files[] = {"id":"5f7e4779-76ef-41ae-a07b-0338158694d6","path":"Canary collection.json","metaData":{}}
 files[] = {"id":"c8a84bab-2d28-4c90-a8e8-9fe4b0cdf401","path":"new2_896503-c8a84bab-2d28-4c90-a8e8-9fe4b0cdf401.json","metaData":{}}
 files[] = {"id":"8ba7a431-3094-477d-b482-c89cd7fe0577","path":"NewCollection_896503-8ba7a431-3094-477d-b482-c89cd7fe0577.json","metaData":{}}
-files[] = {"id":"c1c35740-38ca-4ad3-89d4-e9914e1782f7","path":"Sep 11 collection_896503-c1c35740-38ca-4ad3-89d4-e9914e1782f7.json","metaData":{}}
 files[] = {"id":"4d820e6e-5977-49a0-b2b4-6fcf2333e071","path":"Sep 11 second collection_896503-4d820e6e-5977-49a0-b2b4-6fcf2333e071.json","metaData":{}}
 
 [relations.collections.metaData]

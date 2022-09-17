@@ -1,11 +1,12 @@
-id = 856b821d-f26f-4f0e-b9b4-cdaa93575fed
-gitIntegrationId = 6566
+id = 653b5632-3271-4b6f-b30e-62e5250c7af5
 
 [relations]
 
 [relations.collections]
 rootDirectory = postman/collections
-files[] = {"id":"896503-f6a8e6fd-4125-47ed-8607-019367c69ca5","path":"dev collection_896503-f6a8e6fd-4125-47ed-8607-019367c69ca5.json","metaData":{}}
+files[] = {"id":"23345956-3ac52eba-41dc-4286-aa6d-64dcb7050430","path":"Canary collection.json","metaData":{}}
+files[] = {"id":"23345956-a07a4869-b7d7-4691-989c-cf28baded269","path":"Canary fly fly, fly high.json","metaData":{}}
+files[] = {"id":"23345956-f6a8e6fd-4125-47ed-8607-019367c69ca5","path":"dev collection_896503-f6a8e6fd-4125-47ed-8607-019367c69ca5.json","metaData":{}}
 
 [relations.collections.metaData]
 
